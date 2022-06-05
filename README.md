@@ -1,4 +1,4 @@
-# Progetto_Algorithms_for_massive_datasets
+# Project_Algorithms_for_massive_datasets
 
 
 The purpose of this project is to implement a scalable solution for finding frequent itemsets (in our
