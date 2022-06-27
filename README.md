@@ -14,3 +14,6 @@ association rules from our frequent pairs and calculated support, confidence, in
 them.
 
 More about the work done in the Cavallari_Fiorio_MBApaper.pdf file in the repo.
+
+
+Main concerns: flatmap and TolocalIterator might cause problems into scaling the results
